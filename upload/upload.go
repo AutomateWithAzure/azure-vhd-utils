@@ -6,7 +6,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/AutomateWithAzure/azure-sdk-for-go/tree/main/storage"
+	"github.com/AutomateWithAzure/azure-sdk-for-go/storage"
 	"github.com/Microsoft/azure-vhd-utils/upload/concurrent"
 	"github.com/Microsoft/azure-vhd-utils/upload/progress"
 	"github.com/Microsoft/azure-vhd-utils/vhdcore/common"

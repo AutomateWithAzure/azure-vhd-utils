@@ -1,3 +1,4 @@
+github.com/AutomateWithAzure/azure-sdk-for-go v0.0.0-20220930194854-1f7e97a5d5af h1:OrIuvxpiRAedF/FnkiOj93nxG40QNvHzYkBqv1gu96o=
 github.com/Azure/azure-sdk-for-go v5.0.0-beta.0.20161118192335-3b1282355199+incompatible h1:onD5f6jmuNCkgou4duYKTDFBxIJo0PRLyL3RgJkIt3Q=
 github.com/Azure/azure-sdk-for-go v5.0.0-beta.0.20161118192335-3b1282355199+incompatible/go.mod h1:9XXNKU+eRnpl9moKnB4QOLf1HestfXbmab5FXxiDBjc=
 github.com/kr/pretty v0.1.0 h1:L/CwN0zerZDmRFUapSPitk6f+Q3+0za1rQkzVuMiMFI=
