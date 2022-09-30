@@ -11,7 +11,7 @@ An implementation of VHD [VHD specification](https://technet.microsoft.com/en-us
 # Installation
 > Note: You must have Go installed on your machine, at version 1.11 or greater. [https://golang.org/dl/](https://golang.org/dl/) 
 
-    go get github.com/Microsoft/azure-vhd-utils
+    go get github.com/AutomateWithAzure/azure-vhd-utils
 
 # Features
 
