@@ -1,7 +1,7 @@
 module github.com/AutomateWithAzure/azure-vhd-utils
 
 require (
-	github.com/AutomateWithAzure/azure-sdk-for-go
+	github.com/AutomateWithAzure/azure-sdk-for-go v1.0
 	github.com/Azure/go-autorest/autorest v0.11.28 // indirect
 	github.com/gofrs/uuid v4.3.0+incompatible // indirect
 	github.com/kr/pretty v0.1.0 // indirect
